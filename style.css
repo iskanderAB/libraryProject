@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+padding: 0;
+}	
+
+body {
+  background-image: url('bg.jpg');
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+}
+
+
+
+.background{
+height: 700px;
+width: 650px;
+background-color: rgb(0,0,0,0.5);
+
+}
+
+.text-wrapper {
+width: 	90%;
+position: relative;
+margin-top: ;
+}
+ 
+ .text-wrapper h1{
+ 	text-align: left;
+ 	color: #ffffff;
+ 	font-size: 6vw;
+ 	letter-spacing: 7px;
+ 	line-height: 100px;
+ 	margin-left:50px;
+
+    font-family: Georgia, serif;
+ }
+
+ .text-wrapper h4{
+ 	text-align:left;
+ 	color:  #ffffff ;
+ 	margin-left:50px;
+ 	font-size: 1.5vw;
+  font-family:   system-ui;;
+  }
